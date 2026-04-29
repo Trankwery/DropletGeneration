@@ -34,9 +34,11 @@ $$v_{min} = \sqrt{\frac{4 \sigma}{\rho d}}$$
 + Python 3.x
 + Dependencies: numpy, matplotlib, scipy
 + MATLAB
-Usage Input your liquid properties (density, viscosity, surface tension) in config.py.Run visualize_params.py to see your current operating point relative to the stable regime ($2 < Z < 14$).Use calc_kinetics.py to output the required voltage-to-pressure estimations.
++ 
+## Usage
+ Input your liquid properties (density, viscosity, surface tension) in config.py. 
 ## License:
-This project is licensed under the CC License—see the LICENSE file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License — see the LICENSE file for details.
 ## Citation
 If you use this code in your research, please cite it as: 
 Your Name/Lab Name (2026). DOD-Droplet-Gen: Tools for Parameter Space Optimization.
