@@ -41,4 +41,5 @@ $$v_{min} = \sqrt{\frac{4 \sigma}{\rho d}}$$
 This project is licensed under the Creative Commons Zero v1.0 Universal License — see the LICENSE file for details.
 ## Citation
 If you use this code in your research, please cite it as: 
-Your Name/Lab Name (2026). DOD-Droplet-Gen: Tools for Parameter Space Optimization.
+G. Derkahcov/ON2.7 Group of Optical Characterisation of Micro- and Nanoobjects Institute of Physics,
+Polish Academy of Sciences (2026). DOD-Droplet-Gen: Tools for Parameter Space Optimization.
